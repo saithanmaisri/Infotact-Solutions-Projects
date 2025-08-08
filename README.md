@@ -1,1 +1,5 @@
-# Infotact-Solutions-Projects
+# Sales Data Analysis – Power BI Project
+
+## Live Dashboard
+View the interactive dashboard here: [Live Dashboard](https://app.powerbi.com/links/Frj5z_uDWP?ctid=46106c6e-57ee-40b8-8ba0-a1a29f1b1ffa&pbi_source=linkSharelink)
+
